@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1779028895 "main.aux" "main.bbl" "main" 1779028898
+["bibtex main"] 1779029628 "main.aux" "main.bbl" "main" 1779029628
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1643926307 65483 fc69f364ef63c07bf68a2ab4b323f197 ""
   "example.bib" 1779027105 3948 f463c7e193197e23ddbc83b9dd3fa379 ""
-  "main-blx.bib" 1779028898 340 6699085ccb967043f13310d52e613b85 "pdflatex"
-  "main.aux" 1779028898 3109 425c3083f83bba104fdd27f43df9556e "pdflatex"
+  "main-blx.bib" 1779029627 340 6699085ccb967043f13310d52e613b85 "pdflatex"
+  "main.aux" 1779029628 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1779028897 "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" "main.pdf" "main" 1779028898
-  "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" 1779028893 8300 b186242b603f2f9ecd3895ef180f2558 ""
+["pdflatex"] 1779029626 "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" "main.pdf" "main" 1779029626
+  "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" 1779029626 9777 3a396589698a62aa8b160594acc51764 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc" 1645915288 4020 60b792d80020bd18b20705eb9657af3d ""
@@ -163,10 +163,10 @@
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "bear.jpg" 1488206348 175294 1f666026cbb97399a2dd5c8baa609dd2 ""
   "dandw.png" 1779026445 180173 32670db348d9cc0bc407a977dd7e312d ""
-  "main.aux" 1779028898 3109 425c3083f83bba104fdd27f43df9556e "pdflatex"
+  "main.aux" 1779029550 3192 3471c3df6308b986629a0b7d80033aaf "pdflatex"
   "main.bbl" 1779028895 1746 fe0b553d29796af7c4e6326543e7ab16 "bibtex main"
-  "main.run.xml" 1779028898 2559 909c0cfb644a15a03fd756a5181d37b9 "pdflatex"
-  "main.tex" 1779028893 8300 b186242b603f2f9ecd3895ef180f2558 ""
+  "main.run.xml" 1779029550 2559 eb55338ea58596ee232393847a132182 "pdflatex"
+  "main.tex" 1779029626 9777 3a396589698a62aa8b160594acc51764 ""
   "structure.tex" 1488214160 6185 76f10d2a1f183006ff2411adcc83fbc3 ""
   (generated)
   "main-blx.bib"
