@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.5)  17 MAY 2026 21:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.5)  17 MAY 2026 21:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -810,29 +810,31 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 68.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1009) in paragraph at lines 86--91
+\T1/XCharter-TLF/m/n/10 (+20) One chal-lenge to pro-vid-ing ef-fec-tive pre-ven-ta-tive
+ []
 
- [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
 <dandw.png, id=11, 770.88pt x 433.62pt>
 File: dandw.png Graphic file (type png)
 <use dandw.png>
-Package pdftex.def Info: dandw.png  used on input line 103.
+Package pdftex.def Info: dandw.png  used on input line 106.
 (pdftex.def)             Requested size: 231.88997pt x 130.43767pt.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 104.
+(Font)              scaled to size 9.0pt on input line 107.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 104.
+(Font)              scaled to size 9.0pt on input line 107.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 104.
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 117.
+(Font)              scaled to size 9.0pt on input line 107.
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 120.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/xcharter/TS1XCharter-TLF.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 117.
+(Font)              scaled to size 10.0pt on input line 120.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -840,13 +842,13 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \vbox (badness 6236) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2 <./dandw.png>]
 <bear.jpg, id=18, 546.3612pt x 362.7954pt>
 File: bear.jpg Graphic file (type jpg)
 <use bear.jpg>
-Package pdftex.def Info: bear.jpg  used on input line 167.
+Package pdftex.def Info: bear.jpg  used on input line 170.
 (pdftex.def)             Requested size: 231.88997pt x 153.97841pt.
  [3 <./bear.jpg>]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -854,17 +856,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 2781) in paragraph at lines 194--194
+Underfull \hbox (badness 2781) in paragraph at lines 197--197
 [][]\T1/XCharter-TLF/m/n/10 (+20) Mariette-JB (n.d.). \T1/XCharter-TLF/m/it/10 (+20) The Health and Well-be-ing of
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 194--194
+Underfull \hbox (badness 1571) in paragraph at lines 197--197
 \T1/XCharter-TLF/m/it/10 (+20) Peo-ple in Eu-rope\T1/XCharter-TLF/m/n/10 (+20) . In-fra4NextGen. \T1/XCharter-TLF/m/sc/10 (+20) url\T1/XCharter-TLF/m/n/10 (+20) : $\T1/cmtt/m/n/10 https :
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 194--194
+Underfull \hbox (badness 2012) in paragraph at lines 197--197
 \T1/cmtt/m/n/10 / / infra4nextgen . com / resources / data -[]
  []
 
@@ -878,15 +880,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19092 strings out of 478268
- 352461 string characters out of 5846348
+ 19095 strings out of 478268
+ 352539 string characters out of 5846348
  1080726 words of memory out of 5000000
  36766 multiletter control sequences out of 15000+600000
- 606178 words of font info for 236 fonts, out of 8000000 for 9000
+ 606507 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,11n,71p,1954b,1724s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch_yelf2i.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (4 pages, 548565 bytes).
+Output written on main.pdf (4 pages, 548876 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
