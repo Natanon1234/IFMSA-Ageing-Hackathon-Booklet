@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1779030096 "main.aux" "main.bbl" "main" 1779030113
+["bibtex main"] 1779086906 "main.aux" "main.bbl" "main" 1779086906
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1643926307 65483 fc69f364ef63c07bf68a2ab4b323f197 ""
   "example.bib" 1779027105 3948 f463c7e193197e23ddbc83b9dd3fa379 ""
-  "main-blx.bib" 1779030113 340 6699085ccb967043f13310d52e613b85 "pdflatex"
-  "main.aux" 1779030113 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main-blx.bib" 1779086906 340 6699085ccb967043f13310d52e613b85 "pdflatex"
+  "main.aux" 1779086906 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1779030113 "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" "main.pdf" "main" 1779030113
-  "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" 1779030111 9776 41c4e7b50c14e1fe6d4e8d8f2bd40171 ""
+["pdflatex"] 1779086902 "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" "main.pdf" "main" 1779086902
+  "/Users/natanon/Downloads/IFMSA Hackathon Booklet/main.tex" 1779086902 11890 4db23aaf89f594ce7d22e61379b96a1c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc" 1645915288 4020 60b792d80020bd18b20705eb9657af3d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc" 1645915288 3163 21e525d33df21a14ca1957bee2a40288 ""
@@ -155,12 +155,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1677989592 2826444 98545aca9f6321894f75a537d6ea0625 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "bear.jpg" 1488206348 175294 1f666026cbb97399a2dd5c8baa609dd2 ""
   "dandw.png" 1779026445 180173 32670db348d9cc0bc407a977dd7e312d ""
-  "main.aux" 1779030113 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hospic.jpg" 1779069982 175381 52965bb4a7038d740fcac749171e0c67 ""
+  "main.aux" 1779086768 3719 ba529be7966f3cbb82cb40f59e78ca53 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.run.xml" 1779030113 2559 eb55338ea58596ee232393847a132182 "pdflatex"
-  "main.tex" 1779030111 9776 41c4e7b50c14e1fe6d4e8d8f2bd40171 ""
+  "main.run.xml" 1779086768 2559 eb55338ea58596ee232393847a132182 "pdflatex"
+  "main.tex" 1779086902 11890 4db23aaf89f594ce7d22e61379b96a1c ""
+  "medrole.jpg" 1779069795 697695 016895119109c44790f1e45e2284031c ""
   "structure.tex" 1488214160 6185 76f10d2a1f183006ff2411adcc83fbc3 ""
   (generated)
   "main-blx.bib"
