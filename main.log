@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 14:15
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,41 +873,87 @@ Underfull \hbox (badness 2653) in paragraph at lines 168--171
 LaTeX Warning: Citation 'MOHreport' on page 3 undefined on input line 173.
 
 [3]
+
+LaTeX Warning: Citation 'loucksMindfulnessBasedBloodPressure2019' on page 4 undefined on input line 198.
+
+
+LaTeX Warning: Citation 'halpernRandomizedTrialFour2015' on page 4 undefined on input line 198.
+
+
+LaTeX Warning: Citation 'davidsonUnderstandingPredictingHealth2020' on page 4 undefined on input line 198.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 191--200
+\TU/XCharter(0)/m/n/10 cardiovascular and diabetes related complications.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--200
+[]\TU/XCharter(0)/m/n/10 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--200
+[]\TU/XCharter(0)/m/n/10 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--200
+[]\TU/XCharter(0)/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 191--200
+\TU/XCharter(0)/m/n/10 which are major studies. There is also in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--200
+\TU/XCharter(0)/m/n/10 formation available on the “Science of Be-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 191--200
+\TU/XCharter(0)/m/n/10 haviour Change” page on the NIH common fund
+ []
+
+
+Underfull \vbox (badness 4673) has occurred while \output is active []
+
+ [4]
 File: dandw.png Graphic file (type bmp)
 <dandw.png>
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 [][]\TU/XCharter(0)/m/it/10 Thailand - GHS Index \TU/XCharter(0)/m/n/10 (2026).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 https://ghsindex.org/country/thailand/. (Vis-
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 237--237
+Underfull \hbox (badness 7704) in paragraph at lines 247--247
 \TU/XCharter(0)/m/it/10 System Reaches Almost Everyone, but Inequity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/it/10 Persists\TU/XCharter(0)/m/n/10 . https://www.nhso.go.th/en/news-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 events/news-announcements/thailand-s-health-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 system-reaches-almost-everyone-but-inequity-
  []
 
-[5
-
-] (./main.aux)
+[5] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -921,12 +967,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16501 strings out of 476179
- 350132 string characters out of 5809545
- 1168016 words of memory out of 5000000
- 37007 multiletter control sequences out of 15000+600000
+ 16502 strings out of 476179
+ 350139 string characters out of 5809545
+ 1169252 words of memory out of 5000000
+ 37008 multiletter control sequences out of 15000+600000
  477486 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,11n,121p,1475b,4800s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,121p,1475b,4759s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (5 pages).
