@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 13:07
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 14:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -837,6 +837,8 @@ Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;map
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+File: AgingSociety_Report_official.jpeg Graphic file (type bmp)
+<AgingSociety_Report_official.jpeg>
 
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
@@ -847,61 +849,84 @@ Underfull \vbox (badness 4569) has occurred while \output is active []
 File: hospic.jpg Graphic file (type bmp)
 <hospic.jpg>
 LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 114.
+(Font)              scaled to size 12.0pt on input line 121.
 Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Bold.otf
+
+Underfull \vbox (badness 4492) has occurred while \output is active []
+
 File: medrole.jpg Graphic file (type bmp)
 <medrole.jpg>
+
+
+LaTeX Warning: Citation 'ThailandsAgeingSociety2025' on page 2 undefined on input line 148.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [2]
-Underfull \hbox (badness 2653) in paragraph at lines 146--149
+Underfull \hbox (badness 2653) in paragraph at lines 168--171
 []\TU/XCharter(0)/m/n/10 Community based care is an effective system,
  []
+
+
+LaTeX Warning: Citation 'MOHreport' on page 3 undefined on input line 173.
 
 [3]
 File: dandw.png Graphic file (type bmp)
 <dandw.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 [][]\TU/XCharter(0)/m/it/10 Thailand - GHS Index \TU/XCharter(0)/m/n/10 (2026).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/XCharter(0)/m/n/10 https://ghsindex.org/country/thailand/. (Vis-
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 232--232
+Underfull \hbox (badness 7704) in paragraph at lines 237--237
 \TU/XCharter(0)/m/it/10 System Reaches Almost Everyone, but Inequity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/XCharter(0)/m/it/10 Persists\TU/XCharter(0)/m/n/10 . https://www.nhso.go.th/en/news-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/XCharter(0)/m/n/10 events/news-announcements/thailand-s-health-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/XCharter(0)/m/n/10 system-reaches-almost-everyone-but-inequity-
  []
 
-[4] (./main.aux)
+[5
+
+] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16491 strings out of 476179
- 349817 string characters out of 5809545
- 1167934 words of memory out of 5000000
- 36999 multiletter control sequences out of 15000+600000
+ 16501 strings out of 476179
+ 350132 string characters out of 5809545
+ 1168016 words of memory out of 5000000
+ 37007 multiletter control sequences out of 15000+600000
  477486 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,11n,121p,1475b,4761s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,121p,1475b,4800s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (5 pages).
