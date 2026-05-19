@@ -1,0 +1,628 @@
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.3.5)  19 MAY 2026 11:14
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**"/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure"
+("/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex"
+LaTeX2e <2021-11-15> patch level 1
+Lua module: luaotfload 2022-03-18 3.21 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/Users/natanon/Library/texlive/2022/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-02-24.lua" from kpse-resolved path "/usr/local/texlive/2022/texmf-dist/tex/luatex/luaotfload/fontloader-2022-02-24.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.119
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/natanon/Library/texlive/2022/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'. L3 programming layer <2022-02-24>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:21: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \usepackage{
+               indentfirst}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:22: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \usepackage{
+               tabularx}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:23: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \usepackage{
+               fontspec}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:24: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \usepackage{
+               graphicx}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:25: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \usepackage{
+               booktabs}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:28: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \usepackage[thai,english]{
+                             babel}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:32: Undefined control sequence.
+l.32 \newfontfamily
+                 \thaifont{Sarabun}[
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:32: Undefined control sequence.
+l.32 \newfontfamily\thaifont
+                          {Sarabun}[
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:32: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \newfontfamily\thaifont{S
+                            arabun}[
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:36: Undefined control sequence.
+l.36 \babelprovide
+                [font={rm=\thaifont}]{thai}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:36: Undefined control sequence.
+l.36 \babelprovide[font={rm=\thaifont
+                                   }]{thai}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--37
+[]Sarabun[
+ []
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:38: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \usepackage[nofontspec]{
+                           XCharter}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:39: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \usepackage[dvipsnames,svgnames]{
+                                    xcolor}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:42: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...yle=authoryear, backend=biber, natbib=true]{
+                                                  biblatex}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:43: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \usepackage[autostyle=true]{
+                               csquotes}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:48: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \usepackage{
+               geometry}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:49: Undefined control sequence.
+l.49 \geometry
+            {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:50: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50     t
+        op=1cm,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--57
+[]top=1cm,
+ []
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:63: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \usepackage{
+               fancyhdr}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:64: Undefined control sequence.
+<argument> \undefinedpagestyle 
+                    
+l.64 \pagestyle{fancy}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:66: LaTeX Error: Command \headrulewidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \renewcommand{\headrulewidth}
+                                {0.0pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:67: LaTeX Error: Command \footrulewidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \renewcommand{\footrulewidth}
+                                {0.4pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:71: Undefined control sequence.
+l.71 \lhead
+         {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:72: Undefined control sequence.
+l.72 \chead
+         {\textit{\thetitle}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:72: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \chead{\textit{\thetitle}
+                            }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from /Users/natanon/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:72: Undefined control sequence.
+<recently read> \thetitle 
+          
+l.72 \chead{\textit{\thetitle}
+                            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:73: Undefined control sequence.
+l.73 \rhead
+         {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--74
+[]
+ []
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:76: Undefined control sequence.
+l.76 \lfoot
+         {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:77: Undefined control sequence.
+l.77 \cfoot
+         {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:78: Undefined control sequence.
+l.78 \rfoot
+         {\footnotesize Page \thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:78: Undefined control sequence.
+l.78 \rfoot{\footnotesize
+                        Page \thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:78: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \rfoot{\footnotesize P
+                         age \thepage}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:78: Undefined control sequence.
+l.78 \rfoot{\footnotesize Page \thepage
+                                     }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 78--79
+[]Page
+ []
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:80: Undefined control sequence.
+l.80 \fancypagestyle
+                  {firstpage}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:80: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \fancypagestyle{f
+                    irstpage}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:81: Undefined control sequence.
+l.81     \fancyhf
+               {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--84
+[]firstpage
+ []
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:91: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \usepackage{
+               titling}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:94: Undefined control sequence.
+l.94 \pretitle
+            {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:96: Undefined control sequence.
+\HorRule ->\color 
+                  {DarkGoldenrod}\rule {\linewidth }{1pt}
+l.96     \HorRule
+               \vspace{10pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:96: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96     \HorRule
+               \vspace{10pt}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 97.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:98: Undefined control sequence.
+l.98     \color
+             {DarkRed}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:100: Undefined control sequence.
+l.100 \posttitle
+              {\par\vskip 15pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 96--100
+[]DarkGoldenrod[]
+ []
+
+
+Overfull \hbox (81.7911pt too wide) in paragraph at lines 96--100
+\OT1/phv/b/n/32 Dark-
+ []
+
+
+Overfull \hbox (60.4477pt too wide) in paragraph at lines 96--100
+\OT1/phv/b/n/32 Red
+ []
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:101: Undefined control sequence.
+l.101 \preauthor
+              {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:102: Undefined control sequence.
+l.102 \postauthor
+               {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:104: Undefined control sequence.
+\HorRule ->\color 
+                  {DarkGoldenrod}\rule {\linewidth }{1pt}
+l.104     \par\HorRule
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:104: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104     \par\HorRule
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 104--107
+[]DarkGoldenrod[]
+ []
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:111: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \usepackage{
+                lettrine}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:112: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \usepackage{
+                fix-cm}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+/Users/natanon/Downloads/IFMSA Hackathon Booklet/structure.tex:121: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \usepackage{
+                xstring}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+)
+! Emergency stop.
+<*> ...n/Downloads/IFMSA Hackathon Booklet/structure"
+                                                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 93 strings out of 477785
+ 100000,383344 words of node,token memory allocated 2401 words of node memory still in use:
+   26 hlist, 2 rule, 1 disc, 7 local_par, 1 dir, 63 glue, 3 kern, 11 penalty, 167 glyph, 43 attribute, 39 glue_spec, 43 attribute_list nodes
+   avail lists: 2:3,3:1,4:6,5:5,7:3,10:5
+ 20913 multiletter control sequences out of 65536+600000
+ 17 fonts using 864071 bytes
+ 20i,1n,27p,177b,141s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

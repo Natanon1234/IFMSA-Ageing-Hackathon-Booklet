@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
 %
 \begingroup
 \makeatletter
@@ -16,43 +16,217 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}
-  \entry{mariette-jb2TheoreticalModel}{online}{}
-    \name{author}{1}{}{%
-      {{hash=M}{%
-         family={{Mariette-JB}},
-         familyi={M\bibinitperiod},
-      }}%
-    }
-    \list{organization}{1}{%
-      {Infra4NextGen}%
-    }
-    \strng{namehash}{M1}
-    \strng{fullhash}{M1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{abstract}{%
-    The Social Determinants of Health (SDOH) refer to the social and
-  environmental conditions in which individuals are born, grow up, live, work,
-  and age, all of which play a major role in shaping their overall health and
-  wellbeing. These factors are non-medical influences that can impact health
-  outcomes and contribute to%
-    }
-    \field{title}{The {{Health}} and {{Wellbeing}} of {{People}} in {{Europe}}}
-    \verb{url}
-    \verb https://infra4nextgen.com/resources/data-summaries/healthy/2-theoreti
-    \verb cal-model/
-    \endverb
-    \field{langid}{british}
-    \verb{file}
-    \verb /Users/natanon/Zotero/storage/SMJPCHMI/2-theoretical-model.html
-    \endverb
-    \field{urlday}{17}
-    \field{urlmonth}{05}
-    \field{urlyear}{2026}
-  \endentry
-\enddatalist
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{reporttcdc}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Aging {{Society VS}}. {{Aged Society}} in {{Global}} and {{Thai Contexts}}}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/EAP6KH7J/AgingSociety_Report_official.pdf
+      \endverb
+    \endentry
+    \entry{medrole}{misc}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AGENDA}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{{How Heavy Is the Burden Borne by Thai Doctors in Each Province?}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/7IFR3JEZ/doctor-population-ratio.html
+      \endverb
+    \endentry
+    \entry{mariette-jb2TheoreticalModel}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d7fdf25855b40850abc7635cda26dedb}{%
+           family={{Mariette-JB}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7fdf25855b40850abc7635cda26dedb}
+      \strng{fullhash}{d7fdf25855b40850abc7635cda26dedb}
+      \strng{bibnamehash}{d7fdf25855b40850abc7635cda26dedb}
+      \strng{authorbibnamehash}{d7fdf25855b40850abc7635cda26dedb}
+      \strng{authornamehash}{d7fdf25855b40850abc7635cda26dedb}
+      \strng{authorfullhash}{d7fdf25855b40850abc7635cda26dedb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Social Determinants of Health (SDOH) refer to the social and environmental conditions in which individuals are born, grow up, live, work, and age, all of which play a major role in shaping their overall health and wellbeing. These factors are non-medical influences that can impact health outcomes and contribute to}
+      \field{journaltitle}{Infra4NextGen}
+      \field{langid}{british}
+      \field{title}{The {{Health}} and {{Wellbeing}} of {{People}} in {{Europe}}}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/SMJPCHMI/2-theoretical-model.html
+      \endverb
+    \endentry
+    \entry{samiEffectDietType2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bb001afb8142634fbbc69e045d9bc916}{%
+           family={Sami},
+           familyi={S\bibinitperiod},
+           given={Waqas},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=982443f61a480f156ae39c85b3613346}{%
+           family={Ansari},
+           familyi={A\bibinitperiod},
+           given={Tahir},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1421a79c8b9c56bb55fae0c9ffa085a6}{%
+           family={Butt},
+           familyi={B\bibinitperiod},
+           given={Nadeem\bibnamedelima Shafique},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=846d04d65a660a0decf5d7ab06c470cc}{%
+           family={Hamid},
+           familyi={H\bibinitperiod},
+           given={Mohd\bibnamedelimb Rashid\bibnamedelima Ab},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e91f652ff6b34ebe6733a5ea3813a273}
+      \strng{fullhash}{cfcb2786535566675b39c42ec326323d}
+      \strng{bibnamehash}{e91f652ff6b34ebe6733a5ea3813a273}
+      \strng{authorbibnamehash}{e91f652ff6b34ebe6733a5ea3813a273}
+      \strng{authornamehash}{e91f652ff6b34ebe6733a5ea3813a273}
+      \strng{authorfullhash}{cfcb2786535566675b39c42ec326323d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Globally, type 2 diabetes mellitus (T2DM) is considered as one of the most common diseases. The etiology of T2DM is complex and is associated with irreversible risk factors such as age, genetic, race, and ethnicity and reversible factors such as diet, physical activity and smoking. The objectives of this review are to examine various studies to explore relationship of T2DM with different dietary habits/patterns and practices and its complications. Dietary habits and sedentary lifestyle are the major factors for rapidly rising incidence of DM among developing countries. In type 2 diabetics, recently, elevated HbA1c level has also been considered as one of the leading risk factors for developing microvascular and macrovascular complications. Improvement in the elevated HbA1c level can be achieved through diet management; thus, the patients could be prevented from developing the diabetes complications. Awareness about diabetes complications and consequent improvement in dietary knowledge, attitude, and practices lead to better control of the disease. The stakeholders (health-care providers, health facilities, agencies involved in diabetes care, etc.) should encourage patients to understand the importance of diet which may help in disease management, appropriate self-care and better quality of life.}
+      \field{issn}{1658-3639}
+      \field{journaltitle}{International Journal of Health Sciences}
+      \field{number}{2}
+      \field{shorttitle}{Effect of Diet on Type 2 Diabetes Mellitus}
+      \field{title}{Effect of Diet on Type 2 Diabetes Mellitus: {{A}} Review}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{11}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{65\bibrangedash 71}
+      \range{pages}{7}
+    \endentry
+    \entry{hospic}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://pantip.com/topic/30564761}
+      \field{title}{Talking with Pictures: Going to the Hospital - {{Pantip}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/KQM5KLNK/30564761.html
+      \endverb
+    \endentry
+    \entry{ThailandGHSIndex}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://ghsindex.org/country/thailand/}
+      \field{title}{Thailand - {{GHS Index}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/V9Q9H8Q2/thailand.html
+      \endverb
+    \endentry
+    \entry{tilakulThailandsHealthSystem2026}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa0bc2e7f456810a55410d2c96c63adc}{%
+           family={Tilakul},
+           familyi={T\bibinitperiod},
+           given={Phatarakorn},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \strng{fullhash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \strng{bibnamehash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \strng{authorbibnamehash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \strng{authornamehash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \strng{authorfullhash}{fa0bc2e7f456810a55410d2c96c63adc}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{National Health Security Office, No. 120, Moo 3, 2nd-4th Floor, Government Complex Commemorating His Majesty the King's 80th Birthday Anniversary, 5th December, B.E. 2550 (2007), Building B, Chaeng Watthana Road, Thung Song Hong Sub-district, Laksi District, Bangkok 10210}
+      \field{howpublished}{https://www.nhso.go.th/en/news-events/news-announcements/thailand-s-health-system-reaches-almost-everyone-but-inequity-persists}
+      \field{journaltitle}{National Health Security Office (NHSO)}
+      \field{langid}{british}
+      \field{month}{1}
+      \field{title}{Thailand's Health System Reaches Almost Everyone, but Inequity Persists}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/FE9HAC5B/thailand-s-health-system-reaches-almost-everyone-but-inequity-persists.html
+      \endverb
+    \endentry
+    \entry{weaverWillItWork}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd7d80f45ad0b8e3514d421c0116f807}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={R\bibnamedelima Kent},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \strng{fullhash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \strng{bibnamehash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \strng{authorbibnamehash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \strng{authornamehash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \strng{authorfullhash}{dd7d80f45ad0b8e3514d421c0116f807}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{But {{Will It Work}}?: {{Implementation Analysis}} to {{Improve Government Performance}}}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/MR78WV86/Weaver - But Will It Work Implementation Analysis to Improve Government Performance.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
+

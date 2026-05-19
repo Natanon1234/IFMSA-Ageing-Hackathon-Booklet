@@ -1,72 +1,15 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-The style file: biblatex.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: main-blx.bib
-Database file #2: example.bib
-Warning--I didn't find a database entry for "hospic"
-Warning--I didn't find a database entry for "ThailandGHSIndex"
-Warning--I didn't find a database entry for "tilakulThailandsHealthSystem2026"
-Warning--I didn't find a database entry for "medrole"
-Warning--I didn't find a database entry for "samiEffectDietType2017"
-Warning--I didn't find a database entry for "weaverWillItWork"
-Biblatex version: 3.17
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 2 entries,
-            6399 wiz_defined-function locations,
-            1223 strings with 9770 characters,
-and the built_in function-call counts, 7241 in all, are:
-= -- 337
-> -- 430
-< -- 54
-+ -- 356
-- -- 291
-* -- 342
-:= -- 954
-add.period$ -- 0
-call.type$ -- 2
-change.case$ -- 23
-chr.to.int$ -- 66
-cite$ -- 2
-duplicate$ -- 557
-empty$ -- 586
-format.name$ -- 47
-if$ -- 1363
-int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 0
-newline$ -- 54
-num.names$ -- 57
-pop$ -- 365
-preamble$ -- 1
-purify$ -- 25
-quote$ -- 0
-skip$ -- 298
-stack$ -- 0
-substring$ -- 562
-swap$ -- 181
-text.length$ -- 55
-text.prefix$ -- 1
-top$ -- 1
-type$ -- 56
-warning$ -- 0
-while$ -- 119
-width$ -- 0
-write$ -- 53
-(There were 6 warnings)
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[67] biber-darwin:340> INFO - === Tue May 19, 2026, 13:07:29
+[81] Biber.pm:418> INFO - Reading 'main.bcf'
+[170] Biber.pm:972> INFO - Found 8 citekeys in bib section 0
+[183] Biber.pm:4383> INFO - Processing section 0
+[192] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[193] bibtex.pm:1713> INFO - LaTeX decoding ...
+[202] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[250] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[250] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[250] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[250] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[256] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[258] bbl.pm:757> INFO - Output to main.bbl
