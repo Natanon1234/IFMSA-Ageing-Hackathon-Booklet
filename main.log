@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 14:59
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -823,15 +823,15 @@ LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
 Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Bold.otf
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 65.
+(Font)              scaled to size 10.0pt on input line 66.
 Requested font "[XCharter-Italic.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Italic.otf
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 70.
+(Font)              scaled to size 14.4pt on input line 71.
 Requested font "[XCharter-Roman.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 14.4pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Roman.otf
 LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 70.
+(Font)              scaled to size 14.4pt on input line 71.
 Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 14.4pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Bold.otf
 
@@ -849,7 +849,7 @@ Underfull \vbox (badness 4569) has occurred while \output is active []
 File: hospic.jpg Graphic file (type bmp)
 <hospic.jpg>
 LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 121.
+(Font)              scaled to size 12.0pt on input line 122.
 Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Bold.otf
 
@@ -859,61 +859,61 @@ File: medrole.jpg Graphic file (type bmp)
 <medrole.jpg>
 
 
-LaTeX Warning: Citation 'ThailandsAgeingSociety2025' on page 2 undefined on input line 148.
+LaTeX Warning: Citation 'ThailandsAgeingSociety2025' on page 2 undefined on input line 149.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \hbox (badness 2653) in paragraph at lines 168--171
+Underfull \hbox (badness 2653) in paragraph at lines 169--172
 []\TU/XCharter(0)/m/n/10 Community based care is an effective system,
  []
 
 
-LaTeX Warning: Citation 'MOHreport' on page 3 undefined on input line 173.
+LaTeX Warning: Citation 'MOHreport' on page 3 undefined on input line 174.
 
 [3]
 
-LaTeX Warning: Citation 'loucksMindfulnessBasedBloodPressure2019' on page 4 undefined on input line 198.
+LaTeX Warning: Citation 'loucksMindfulnessBasedBloodPressure2019' on page 4 undefined on input line 199.
 
 
-LaTeX Warning: Citation 'halpernRandomizedTrialFour2015' on page 4 undefined on input line 198.
+LaTeX Warning: Citation 'halpernRandomizedTrialFour2015' on page 4 undefined on input line 199.
 
 
-LaTeX Warning: Citation 'davidsonUnderstandingPredictingHealth2020' on page 4 undefined on input line 198.
+LaTeX Warning: Citation 'davidsonUnderstandingPredictingHealth2020' on page 4 undefined on input line 199.
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 191--200
+Underfull \hbox (badness 1259) in paragraph at lines 192--201
 \TU/XCharter(0)/m/n/10 cardiovascular and diabetes related complications.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--200
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 []\TU/XCharter(0)/m/n/10 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--200
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 []\TU/XCharter(0)/m/n/10 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--200
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 []\TU/XCharter(0)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 191--200
+Underfull \hbox (badness 7326) in paragraph at lines 192--201
 \TU/XCharter(0)/m/n/10 which are major studies. There is also in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--200
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 \TU/XCharter(0)/m/n/10 formation available on the “Science of Be-
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 191--200
+Underfull \hbox (badness 1009) in paragraph at lines 192--201
 \TU/XCharter(0)/m/n/10 haviour Change” page on the NIH common fund
  []
 
@@ -924,32 +924,32 @@ Underfull \vbox (badness 4673) has occurred while \output is active []
 File: dandw.png Graphic file (type bmp)
 <dandw.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 [][]\TU/XCharter(0)/m/it/10 Thailand - GHS Index \TU/XCharter(0)/m/n/10 (2026).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 \TU/XCharter(0)/m/n/10 https://ghsindex.org/country/thailand/. (Vis-
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 247--247
+Underfull \hbox (badness 7704) in paragraph at lines 248--248
 \TU/XCharter(0)/m/it/10 System Reaches Almost Everyone, but Inequity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 \TU/XCharter(0)/m/it/10 Persists\TU/XCharter(0)/m/n/10 . https://www.nhso.go.th/en/news-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 \TU/XCharter(0)/m/n/10 events/news-announcements/thailand-s-health-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 \TU/XCharter(0)/m/n/10 system-reaches-almost-everyone-but-inequity-
  []
 
