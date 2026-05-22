@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  19 MAY 2026 16:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  22 MAY 2026 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,130 +849,98 @@ Underfull \vbox (badness 4569) has occurred while \output is active []
 File: hospic.jpg Graphic file (type bmp)
 <hospic.jpg>
 LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 121.
+(Font)              scaled to size 12.0pt on input line 122.
 Requested font "[XCharter-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/xcharter/XCharter-Bold.otf
-
-Underfull \vbox (badness 4492) has occurred while \output is active []
-
 File: medrole.jpg Graphic file (type bmp)
 <medrole.jpg>
-
-
-LaTeX Warning: Citation 'ThailandsAgeingSociety2025' on page 2 undefined on input line 148.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \hbox (badness 2653) in paragraph at lines 168--171
+Underfull \hbox (badness 2653) in paragraph at lines 170--173
 []\TU/XCharter(0)/m/n/10 Community based care is an effective system,
  []
 
-
-LaTeX Warning: Citation 'MOHreport' on page 3 undefined on input line 173.
-
 [3]
-
-LaTeX Warning: Citation 'loucksMindfulnessBasedBloodPressure2019' on page 4 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'halpernRandomizedTrialFour2015' on page 4 undefined on input line 196.
-
-
-LaTeX Warning: Citation 'davidsonUnderstandingPredictingHealth2020' on page 4 undefined on input line 196.
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 189--198
-\TU/XCharter(0)/m/n/10 cardiovascular and diabetes related complications.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--198
-[]\TU/XCharter(0)/m/n/10 ;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--198
-[]\TU/XCharter(0)/m/n/10 ;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--198
-[]\TU/XCharter(0)/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 7326) in paragraph at lines 189--198
-\TU/XCharter(0)/m/n/10 which are major studies. There is also in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--198
-\TU/XCharter(0)/m/n/10 formation available on the “Science of Be-
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 189--198
-\TU/XCharter(0)/m/n/10 haviour Change” page on the NIH common fund
- []
-
-
-Underfull \vbox (badness 4673) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 File: dandw.png Graphic file (type bmp)
 <dandw.png>
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 1881) in paragraph at lines 247--247
+\TU/XCharter(0)/m/n/10 of Meta-Reviews”. In: \TU/XCharter(0)/m/it/10 Health Psychology Review
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[][]\TU/XCharter(0)/m/n/10 Mariette-JB (2026). \TU/XCharter(0)/m/it/10 The Health and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+\TU/XCharter(0)/m/it/10 Wellbeing of People in Europe\TU/XCharter(0)/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+\TU/XCharter(0)/m/n/10 https://infra4nextgen.com/resources/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 [][]\TU/XCharter(0)/m/it/10 Thailand - GHS Index \TU/XCharter(0)/m/n/10 (2026).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 https://ghsindex.org/country/thailand/. (Vis-
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 243--243
+Underfull \hbox (badness 7704) in paragraph at lines 247--247
 \TU/XCharter(0)/m/it/10 System Reaches Almost Everyone, but Inequity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/it/10 Persists\TU/XCharter(0)/m/n/10 . https://www.nhso.go.th/en/news-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 events/news-announcements/thailand-s-health-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 \TU/XCharter(0)/m/n/10 system-reaches-almost-everyone-but-inequity-
  []
 
-[5] (./main.aux)
+[5] [6
+
+] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16502 strings out of 476179
- 350139 string characters out of 5809545
- 1169252 words of memory out of 5000000
- 37008 multiletter control sequences out of 15000+600000
- 477486 words of font info for 70 fonts, out of 8000000 for 9000
+ 16530 strings out of 476179
+ 351307 string characters out of 5809545
+ 1172252 words of memory out of 5000000
+ 37034 multiletter control sequences out of 15000+600000
+ 477494 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,11n,121p,1475b,4759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,121p,1475b,4850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (6 pages).

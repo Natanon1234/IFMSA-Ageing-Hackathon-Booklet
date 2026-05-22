@@ -29,6 +29,166 @@
       \verb /Users/natanon/Zotero/storage/EAP6KH7J/AgingSociety_Report_official.pdf
       \endverb
     \endentry
+    \entry{davidsonUnderstandingPredictingHealth2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0fc58f6a619932714e10a63822f9ba2d}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={Karina\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=656d42e410b82a8a29667dbf0558d075}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Urte},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \strng{fullhash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \strng{bibnamehash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \strng{authorbibnamehash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \strng{authornamehash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \strng{authorfullhash}{a31300eb712c9d3d619c7e836b3f8d95}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{2}
+      \field{issn}{1743-7199, 1743-7202}
+      \field{journaltitle}{Health Psychology Review}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Health Psychology Review}
+      \field{shorttitle}{Understanding and Predicting Health Behaviour Change}
+      \field{title}{Understanding and Predicting Health Behaviour Change: A Contemporary View through the Lenses of Meta-Reviews}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1080/17437199.2020.1719368
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1719368
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1719368
+      \endverb
+    \endentry
+    \entry{halpernRandomizedTrialFour2015}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=bff555a7da06c49e8389657c154701d7}{%
+           family={Halpern},
+           familyi={H\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7148d531215f7e8d2043ed577f780220}{%
+           family={French},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fde815907463770a7e81383a77a858d}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={Dylan\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1f93c621400230ab3a36a75dcb8c0c5}{%
+           family={Saulsgiver},
+           familyi={S\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5528359c69c07a85d337de8e7285a5c}{%
+           family={Harhay},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima O.},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aab5ead860a347aee202b0758d4fdb4}{%
+           family={Audrain-McGovern},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=898ca02622955fd1ccdcf47220061ed2}{%
+           family={Loewenstein},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91141c759808d06a20bc52d942be34be}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Troyen\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d0f7d9565b3ca30d6713523bc452260}{%
+           family={Asch},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9367838eca7e86148a57539f8be52290}{%
+           family={Volpp},
+           familyi={V\bibinitperiod},
+           given={Kevin\bibnamedelima G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb5b8c4b3f1940b82b957e1aa87410d7}
+      \strng{fullhash}{acf0dabbddc624cc4e3d432c8d1bd125}
+      \strng{bibnamehash}{bb5b8c4b3f1940b82b957e1aa87410d7}
+      \strng{authorbibnamehash}{bb5b8c4b3f1940b82b957e1aa87410d7}
+      \strng{authornamehash}{bb5b8c4b3f1940b82b957e1aa87410d7}
+      \strng{authorfullhash}{acf0dabbddc624cc4e3d432c8d1bd125}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{issn}{0028-4793, 1533-4406}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{22}
+      \field{shortjournal}{N Engl J Med}
+      \field{title}{Randomized {{Trial}} of {{Four Financial-Incentive Programs}} for {{Smoking Cessation}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{372}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2108\bibrangedash 2117}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1056/NEJMoa1414293
+      \endverb
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/LM23MD2B/Halpern et al. - 2015 - Randomized Trial of Four Financial-Incentive Programs for Smoking Cessation.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nejm.org/doi/10.1056/NEJMoa1414293
+      \endverb
+      \verb{url}
+      \verb http://www.nejm.org/doi/10.1056/NEJMoa1414293
+      \endverb
+    \endentry
     \entry{medrole}{misc}{}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
@@ -46,6 +206,128 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /Users/natanon/Zotero/storage/7IFR3JEZ/doctor-population-ratio.html
+      \endverb
+    \endentry
+    \entry{loucksMindfulnessBasedBloodPressure2019}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=8aa4e4b3a43e3d434e3462fd3148c629}{%
+           family={Loucks},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ecf94df6234ccf286aba07b297076e3}{%
+           family={Nardi},
+           familyi={N\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc8899e87be830eb7bc5c1d1f9dafe8b}{%
+           family={Gutman},
+           familyi={G\bibinitperiod},
+           given={Roee},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=586e44fdd29df9b8b892a494c7764411}{%
+           family={Kronish},
+           familyi={K\bibinitperiod},
+           given={Ian\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33e118363ed93f3b04ea651e88ec587c}{%
+           family={Saadeh},
+           familyi={S\bibinitperiod},
+           given={Frances\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0a63a9f832f00cc0a29c361a64c672e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=888131868086454665d2b4c14cf119e0}{%
+           family={Wentz},
+           familyi={W\bibinitperiod},
+           given={Anna\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49182793e76801365174d9ce7b10962b}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fa63cd47642bcbee30c82657702509e}{%
+           family={Vago},
+           familyi={V\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b4db8892460cfa27e99405832ec0be9}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60be44a743e4f4177c96b831ac9b1917}{%
+           family={Britton},
+           familyi={B\bibinitperiod},
+           given={Willoughby\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ab48f2d78a006415233971bbd384c2c7}{%
+           family={Shiu},
+           familyi={S\bibinitperiod},
+           given={Cheng-Shi},
+           giveni={C\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{873b92caeb70c3cd9b0704130d763eec}
+      \strng{fullhash}{28f2b46ff4fe6092f728f82019959daf}
+      \strng{bibnamehash}{873b92caeb70c3cd9b0704130d763eec}
+      \strng{authorbibnamehash}{873b92caeb70c3cd9b0704130d763eec}
+      \strng{authornamehash}{873b92caeb70c3cd9b0704130d763eec}
+      \strng{authorfullhash}{28f2b46ff4fe6092f728f82019959daf}
+      \strng{editorbibnamehash}{ab48f2d78a006415233971bbd384c2c7}
+      \strng{editornamehash}{ab48f2d78a006415233971bbd384c2c7}
+      \strng{editorfullhash}{ab48f2d78a006415233971bbd384c2c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{27}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{PLoS ONE}
+      \field{shorttitle}{Mindfulness-{{Based Blood Pressure Reduction}} ({{MB-BP}})}
+      \field{title}{Mindfulness-{{Based Blood Pressure Reduction}} ({{MB-BP}}): {{Stage}} 1 Single-Arm Clinical Trial}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e0223095}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0223095
+      \endverb
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/VYSR627Y/Loucks et al. - 2019 - Mindfulness-Based Blood Pressure Reduction (MB-BP) Stage 1 single-arm clinical trial.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0223095
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0223095
       \endverb
     \endentry
     \entry{mariette-jb2TheoreticalModel}{misc}{}
@@ -67,6 +349,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Social Determinants of Health (SDOH) refer to the social and environmental conditions in which individuals are born, grow up, live, work, and age, all of which play a major role in shaping their overall health and wellbeing. These factors are non-medical influences that can impact health outcomes and contribute to}
+      \field{howpublished}{https://infra4nextgen.com/resources/data-summaries/healthy/}
       \field{journaltitle}{Infra4NextGen}
       \field{langid}{british}
       \field{title}{The {{Health}} and {{Wellbeing}} of {{People}} in {{Europe}}}
@@ -77,6 +360,35 @@
       \verb{file}
       \verb /Users/natanon/Zotero/storage/SMJPCHMI/2-theoretical-model.html
       \endverb
+    \endentry
+    \entry{MOHreport}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8cdc2631e445e641b9f1e2cdebeaacaa}{%
+           family={Pannarunothai},
+           familyi={P\bibinitperiod},
+           given={Supasit},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \strng{fullhash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \strng{bibnamehash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \strng{authorbibnamehash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \strng{authornamehash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \strng{authorfullhash}{8cdc2631e445e641b9f1e2cdebeaacaa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Medical Association of Thailand}
+      \field{number}{Suppl 3}
+      \field{title}{Hospitalizations of Diabetes Ambulatory Care Sensitive Condition - Universal Coverage Scheme at a Referral Hospital in Bangkok, Thailand}
+      \field{volume}{97}
+      \field{year}{2014}
+      \field{pages}{25\bibrangedash 32}
+      \range{pages}{8}
     \endentry
     \entry{samiEffectDietType2017}{article}{}
       \name{author}{4}{}{%
@@ -164,6 +476,40 @@
       \verb /Users/natanon/Zotero/storage/V9Q9H8Q2/thailand.html
       \endverb
     \endentry
+    \entry{ThailandsAgeingSociety2025}{online}{}
+      \list{organization}{1}{%
+        {nationthailand}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The shifting population structure is driving up dependency ratios and the burden on the working-age group to support the elderly. This crisis directly threatens the economy, risking labour shortages, rising welfare costs and overall stagnation.}
+      \field{day}{29}
+      \field{hour}{9}
+      \field{langid}{american}
+      \field{minute}{15}
+      \field{month}{9}
+      \field{second}{0}
+      \field{timezone}{+07\bibtzminsep 00}
+      \field{title}{Thailand’s Ageing Society Threatens Fiscal Collapse and Drags down Economy}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/natanon/Zotero/storage/WTCHYNRW/40056069.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nationthailand.com/blogs/business/economy/40056069
+      \endverb
+      \verb{url}
+      \verb https://www.nationthailand.com/blogs/business/economy/40056069
+      \endverb
+    \endentry
     \entry{tilakulThailandsHealthSystem2026}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fa0bc2e7f456810a55410d2c96c63adc}{%
@@ -220,6 +566,7 @@
       \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.brookings.edu/wp-content/uploads/2016/06/02_implementation_analysis_weaver.pdf}
       \field{langid}{english}
       \field{title}{But {{Will It Work}}?: {{Implementation Analysis}} to {{Improve Government Performance}}}
       \verb{file}
