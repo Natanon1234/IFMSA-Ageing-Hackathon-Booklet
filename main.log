@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  22 MAY 2026 16:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  22 MAY 2026 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -923,22 +923,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--247
 [5] [6
 
 ] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16530 strings out of 476179
- 351307 string characters out of 5809545
- 1172252 words of memory out of 5000000
- 37034 multiletter control sequences out of 15000+600000
+ 16540 strings out of 476179
+ 351417 string characters out of 5809545
+ 1172427 words of memory out of 5000000
+ 37044 multiletter control sequences out of 15000+600000
  477494 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,121p,1475b,4850s stack positions out of 10000i,1000n,20000p,200000b,200000s
